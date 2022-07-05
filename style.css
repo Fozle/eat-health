@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+    font-size: 52px;
+    font-weight: 500;
+}
+p{
+    font-size: 15px;
+    font-weight: 300;
+    color: gray;
+    padding-bottom: 30px;
+    line-height: 25px;
+}
+span{
+    color: orangered;
+}
+.main-header{
+    display: flex;
+   
+}
+.half-with{
+    width: 50%;
+    padding: 4%;
+    
+}
+
+.header-img{
+    width: 100%;
+}
+.btn{ 
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 30px ;
+   color: white;
+    font-weight: 700;
+    border-radius: 25px;
+    
+}
+
+.about-me{
+    background-image: url(images/7.jpg);
+    background-repeat: no-repeat;
+   
+    
+}
+.about-image img{
+    width: 60%;
+    padding-left: 100px;
+  
+}
+.recipies{
+    text-align: center;
+}
+.box-shadow{
+    width: 50%;
+    box-shadow: 5px 5px  20px gray;
+    padding: 20px;
+    border-radius: 10px;
+}
+.box-shadow img{
+    width: 100%;
+}
+.box-shadow-a{
+    margin-left: 5%;
+    margin-right: 4%;
+}
+.box-shadow-b{
+    margin-right: 5%;
+}
+
+.social  {
+    text-align: center;
+    display: flex;
+}
+

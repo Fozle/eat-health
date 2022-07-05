@@ -74,5 +74,28 @@ span{
 .social  {
     text-align: center;
     display: flex;
+    width: 80%;
+    box-shadow: 5px 5px 20px gray;
+    margin-left: 10%;
+    margin-top: 50px;
+    border-radius: 15px;
+    
+}
+.social div{
+    padding: 50px;
+    width: 33.33%;
+}
+footer{
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+}
+footer h1{
+    color: azure;
+}
+.foter{
+    color: orange;
 }
 
